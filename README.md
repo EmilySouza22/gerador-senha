@@ -1,2 +1,2 @@
 # gerador-senha
-Projetinho de gerador de senha
+Projetinho de gerador de senhas
